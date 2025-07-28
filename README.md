@@ -579,7 +579,7 @@ This project is released under the **MIT License**, providing:
 [![University](https://img.shields.io/badge/Institution-University_of_Wah-blue.svg)](#)
 [![Department](https://img.shields.io/badge/Department-Cybersecurity-purple.svg)](#)
 [![Course](https://img.shields.io/badge/Course-Programming_Fundamentals-teal.svg)](#)
-[![Semester](https://img.shields.io/badge/Semester-2nd-green.svg)](#)
+[![Semester](https://img.shields.io/badge/Semester-1st-green.svg)](#)
 [![Project](https://img.shields.io/badge/Type-Academic_Project-orange.svg)](#)
 
 ---
@@ -588,6 +588,5 @@ This project is released under the **MIT License**, providing:
 
 **⭐ Star this repository if it enhanced your C++ learning experience!**
 
-[🚀 View Project](https://github.com/Q3hr/train-reservation-system) • [📚 Documentation](https://github.com/Q3hr/train-reservation-system/wiki) • [🐛 Report Issues](https://github.com/Q3hr/train-reservation-system/issues) • [💡 Feature Requests](https://github.com/Q3hr/train-reservation-system/discussions)
 
 </div>
