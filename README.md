@@ -574,7 +574,6 @@ This project is released under the **MIT License**, providing:
 
 *Bridging theoretical concepts with practical application development*
 
----
 
 [![University](https://img.shields.io/badge/Institution-University_of_Wah-blue.svg)](#)
 [![Department](https://img.shields.io/badge/Department-Cybersecurity-purple.svg)](#)
