@@ -468,34 +468,6 @@ if(train_num >= 1001 && train_num <= 1010) {
 
 ---
 
-## 👥 Development Team & Collaboration
-
-### Project Contributors
-
-Our dedicated development team brought diverse expertise and collaborative excellence to this project:
-
-- **Muhammad Azfar Waqas** - UW-23-CY-BS-013
-  - *Lead Developer & System Architect*
-  - Core functionality implementation and system design
-
-- **Atta Ur Rahman** - UW-23-CY-BS-014  
-  - *User Interface & Experience Designer*
-  - Console interface design and user interaction flow
-
-- **Ibrar Ul Hassan Shami** - UW-23-CY-BS-018
-  - *Quality Assurance & Documentation Specialist*
-  - Testing, validation, and comprehensive documentation
-
-### Team Collaboration Highlights
-
-- **🤝 Agile Development** - Iterative development with regular reviews
-- **📋 Code Reviews** - Peer review process for quality assurance
-- **🔧 Version Control** - Coordinated development with proper documentation
-- **📊 Testing Strategy** - Comprehensive functionality and edge case testing
-- **📝 Documentation Standards** - Consistent and thorough project documentation
-
----
-
 ## 📚 Resources & References
 
 ### Technical Documentation
@@ -616,6 +588,6 @@ This project is released under the **MIT License**, providing:
 
 **⭐ Star this repository if it enhanced your C++ learning experience!**
 
-[🚀 View Project](https://github.com/yourusername/train-reservation-system) • [📚 Documentation](https://github.com/yourusername/train-reservation-system/wiki) • [🐛 Report Issues](https://github.com/yourusername/train-reservation-system/issues) • [💡 Feature Requests](https://github.com/yourusername/train-reservation-system/discussions)
+[🚀 View Project](https://github.com/Q3hr/train-reservation-system) • [📚 Documentation](https://github.com/Q3hr/train-reservation-system/wiki) • [🐛 Report Issues](https://github.com/Q3hr/train-reservation-system/issues) • [💡 Feature Requests](https://github.com/Q3hr/train-reservation-system/discussions)
 
 </div>
